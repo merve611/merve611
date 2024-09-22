@@ -11,8 +11,6 @@ I am a software engineer. I work on various projects and enjoy learning new tech
 - 🔧 .NET Core, Entity Framework
 - 📱 Mobil uygulama geliştirme.
 
-### 📈 GitHub İstatistiklerim:
-![İstatistikler](https://github-readme-stats.vercel.app/api?username=merve611_merve&show_icons=true&theme=radical)
 
-### 💬 İletişim:
+### 💬 Communication:
 - [LinkedIn](https://www.linkedin.com/in/merve-akkoyunlu-2bb1881a8)
