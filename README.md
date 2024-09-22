@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Merve]! 👋
 
-<!--
-**merve611/merve611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer. I work on various projects and enjoy learning new technologies.
 
-Here are some ideas to get you started:
+### 🚀 Languages and Tools:
+- 💻  .NET Core, ASP.NET, MVC, C#, SQL
+- 🛠️  Git, VS Code, VS Studio, PostgreSQL, MsSQL Server
+- 📱  HTML, CSS, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I am currently learning:
+- 🔧 .NET Core, Entity Framework
+- 📱 Mobil uygulama geliştirme.
+
+### 📈 GitHub İstatistiklerim:
+![İstatistikler](https://github-readme-stats.vercel.app/api?username=merve611_merve&show_icons=true&theme=radical)
+
+### 💬 İletişim:
+- [LinkedIn](https://www.linkedin.com/in/merve-akkoyunlu-2bb1881a8)
