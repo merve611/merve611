@@ -1,4 +1,4 @@
-# Hi, I'm [Merve]! 👋
+# Hi, I'm Merve! 👋
 
 I am a software engineer. I work on various projects and enjoy learning new technologies.
 
